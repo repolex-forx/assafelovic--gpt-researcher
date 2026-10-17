@@ -1,0 +1,11 @@
+{
+  "org": "assafelovic",
+  "repo": "gpt-researcher",
+  "versions": [
+    {
+      "commit": "3582a6841fe7dc801e2a34e34ee408641aea9bce",
+      "tag": "",
+      "parsed_at": "2026-10-17T19:43:01.801872+00:00"
+    }
+  ]
+}
