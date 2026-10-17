@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/assafelovic/gpt-researcher/commit/3582a6841fe7dc801e2a34e34ee408641aea9bce",
       "git:hexsha": "3582a6841fe7dc801e2a34e34ee408641aea9bce",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T19:43:01.801174+00:00"
     },
     {
       "@id": "https://repolex.ai/r/assafelovic/gpt-researcher/commit/b014c329f7344f5f51412efc4d53badd6fa2b556",
